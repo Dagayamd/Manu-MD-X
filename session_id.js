@@ -26,9 +26,9 @@
 //  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
 //*
 //*
-//base by Manul Official
+//base by DAGAYA_king
 //GitHub: @manulofficial7
-//WhatsApp: +94742274855
+//WhatsApp: +94756059852
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
 //   * Created By Github: manulofficial7.
 //   * Credit To Manul Official
@@ -43,5 +43,5 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "put your session id",
+SESSION_ID: process.env.SESSION_ID || "Manu-MD&2cdg2Z6B#vq-DrjmsNnYSdUc94rrY5ob3802Jc6nLd4ScwhIvMIM",
 };
